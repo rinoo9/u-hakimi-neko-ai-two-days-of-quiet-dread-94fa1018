@@ -16,6 +16,16 @@ Why this line works against the judge's brief (most important first):
 5. The fresh turn is the escalation itself: not just "this will outlive
    us", but outliving the company and finally the language it was
    written in, so the code ends up older than its own medium.
+6. It opens with the exact word a reviewer actually types ("Approved."):
+   real approval voice, not a joke setup, so the laugh lands inside a
+   routine act the reader has performed themselves.
+7. The dread escalates in three flat steps — team, then company, then
+   the language itself — each one wider than the last, delivered without
+   emphasis, so the scale creeps up on the reader instead of announcing
+   itself.
+8. The tone stays tired and understated: no exclamation mark, no
+   punchline word, just a flat observation from an engineer who has seen
+   code outlive its authors before and knows it will happen again.
 """
 
 import os
