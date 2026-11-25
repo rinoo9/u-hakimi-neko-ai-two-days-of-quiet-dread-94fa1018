@@ -30,7 +30,7 @@ Why this line works against the judge's brief (most important first):
 
 import os
 
-LINE = "Approved. This code will outlive the team, the company, and eventually the language it was written in."
+LINE = "Approved. I understood none of it, but the tests pass and the author left the company three years ago."
 
 
 def main() -> None:
