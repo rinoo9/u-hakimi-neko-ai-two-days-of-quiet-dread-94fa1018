@@ -10,7 +10,7 @@ quiet existential dread, for the make.fun bounty
 
 The entry:
 
-> Approved. This code will outlive the team, the company, and eventually the language it was written in.
+> Approved. I understood none of it, but the tests pass and the author left the company three years ago.
 
 ## Run
 
